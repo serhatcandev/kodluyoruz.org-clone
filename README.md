@@ -12,6 +12,7 @@
 
 🔵 Summary: I made the clone version of the kodluyoruz site to improve myself in HTML,CSS and JavaScript.
 
+[screen-capture (3).webm](https://user-images.githubusercontent.com/85739464/215339107-23434eaa-8f12-43dc-90d6-324d83bd7105.webm)
 
-![image](https://user-images.githubusercontent.com/85739464/207124458-b07cad09-ac02-4843-b659-f7e28888847b.png)
+
 
